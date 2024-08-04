@@ -2,7 +2,7 @@
 ## Predict high-risk donors of HCV using the ‘K-Nearest Neighbors’ model
 
 ### Background
-* Hepatitis C Virus(HCV) is known to be a ‘transfusion-transmissible infection (TTI)’
+* Hepatitis C Virus(HCV) is known to be a ‘transfusion-transmissible infection(TTI)’
 * World Health Organization(WHO) recommends all blood donations should be screened for HCV*
 * Predicting donors with high risk of Hepatitis C(even before testing HCV) will help blood centers to pre-screen and monitor high-risk donors, enhancing blood safety.
 * (Objective) Predict blood donor with a high risk of Hepatitis C
