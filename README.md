@@ -1,5 +1,5 @@
 # Predict High-Risk Donors for Hepatitis C
-## Classifying high-risk donors of HCV using the ‘K-Nearest Neighbors’ model
+## Predict high-risk donors of HCV using the ‘K-Nearest Neighbors’ model
 
 ### Background
 * Hepatitis C (HCV) is known to be a ‘transfusion-transmissible infection (TTI)’
@@ -17,7 +17,7 @@
 * Platforms used for this project: Pandas, Scikit-learn, and Imbalanced-learn
 
 ### Note for this project
-* The data used for this project is from UCI Machine Learning Repository(Citation - Lichtinghagen,Ralf, Klawonn,Frank, and Hoffmann,Georg. (2020). HCV data. UCI Machine Learning Repository. https://doi.org/10.24432/C5D612).
+* The data used for this project is from the UCI Machine Learning Repository(Citation - Lichtinghagen, Ralf, Klawonn, Frank, and Hoffmann, Georg. (2020). HCV data. UCI Machine Learning Repository. https://doi.org/10.24432/C5D612).
 * This project was worked with Yoojin (Audrey) Jung, a data analyst, with a master's degree from the University of Illinois Urbana-Champaign (UIUC).
   * **(Skills)** Data Analytics, Visualization (Tableau), SQL, R, Python
   * **(Contributions to this project)** EDA (Processing & Visualization)
@@ -26,7 +26,7 @@
 ### Citation
 If you use (or refer to) this project in your research (study), please cite it as follows:
   * Author: Hyunjin and Yoojin
-  * Title: Classifying high-risk donors of HCV using the ‘K-Nearest Neighbors’ model
+  * Title: Predict high-risk donors of HCV using the ‘K-Nearest Neighbors’ model
   * Year/Month: 2024.08.
   * Publisher: Hyunjin-Austin
   * Journal: Predict High-Risk Donors for HCV
